@@ -1,5 +1,5 @@
 {
-    "name": "blocktrail/blocktrail-sdk",
+    "name": "wedevbr/blocktrail-sdk",
     "description": "The BlockTrail PHP SDK, for integration of Bitcoin functionality through the BlockTrail API",
     "keywords": ["blocktrail", "bitcoin", "sdk", "api", "blockchain", "payment", "bitcoin data", "wallet", "multi-signature", "transaction"],
     "authors": [
@@ -33,7 +33,7 @@
         "ext-dom": "*",
         "ext-curl": "*",
 
-        "wedevBr/bitcoin-php": "v0.0.34.1",
+        "wedevbr/bitcoin-php": "v0.0.34.1",
         "btccom/justencrypt": "v0.2.0",
         "btccom/cashaddress": "v0.0.3",
         "mdanter/ecc": "v0.4.*",
